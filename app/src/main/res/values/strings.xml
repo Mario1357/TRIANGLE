@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Triangular numbers</string>
+    <string name="borrar">BORRAR</string>
+    <string name="que_es">¿QUE ES?</string>
+</resources>
